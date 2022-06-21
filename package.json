@@ -1,12 +1,13 @@
 {
-  "name": "nextjs-blog-theme",
-  "description": "A customizable Next.js and Tailwind blog starter. Designed by the Bejamas agency.",
-  "author": "Bejamas and Netlify Inc.",
+  "name": "Malic Local News ",
+  "description": "A customizable News Blog and Latest 
+ Products. Designed by the Galants agency.",
+  "author": "Malic News and Galant Inc.",
   "contributors": [
-    "Charlie Gerard",
-    "Prince Wilson",
-    "Tara Manicsic",
-    "Thom Krupa"
+    "Maxine Osborne",
+    "Keano Klein",
+    "Raeez Wolmarans",
+    "Sadick Galant"
   ],
   "homepage": "https://github.com/netlify-templates/nextjs-blog-theme",
   "bugs": {
